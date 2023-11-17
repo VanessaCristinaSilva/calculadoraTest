@@ -6,47 +6,9 @@
 ## Introdução
 
 <p>Este é um projeto simples de uma calculadora em Java, e este README de uma forma resumida descreve os testes que fora realizados na calculadora usando JUnit.</p>
-<p>No diretório src/calculadora, criamos os testes unitários que descrevem o comportamento desejado de cada operação matemática da nossa Calculadora.</p>
 
 ## Calculadora criada
 ![image](https://github.com/VanessaCristinaSilva/calculadoraTest/assets/115050243/ce764123-ef3b-4bbf-be83-8298645fc1d8)
-
-
-## Alguns exemplos das funcionalidades Testadas
-
-### Função Somar:
-
-+ Somar de dois valores positivos;
-+ Somar de dois valores sendo um zero;
-+ Somar de dois valores sendo que ambos são zero;
-+ Somar de dois valores sendo um negativo.
- 
-![image](https://github.com/VanessaCristinaSilva/calculadoraTest/assets/115050243/b7dc104f-a9df-467c-aaa9-73052c628e5d)
-
-### Função Subtrair:
-+ Subtrair de dois valores positivos;
-+ Subtrair de dois valores sendo um zero;
-+ Subtrair de dois valores sendo que ambos são zero;
-+ Subtrair de dois valores sendo um negativo.
-
-![image](https://github.com/VanessaCristinaSilva/calculadoraTest/assets/115050243/1e2241a8-f58f-4032-8348-cef289379e9c)
-
-### Função Multiplicar:
-+ Multiplicar de dois valores positivos;
-+ Multiplicar de dois valores sendo um zero;
-+ Multiplicar de dois valores sendo que ambos são zero;
-+ Multiplicar de dois valores sendo um negativo.
-
-![image](https://github.com/VanessaCristinaSilva/calculadoraTest/assets/115050243/ff765ec1-afc7-4025-b3ea-5d8bbf16c8db)
-
-### Função Dividir:
-+ Dividir de dois valores positivos;
-+ Dividir de dois valores sendo um zero;
-+ Dividir de dois valores sendo que ambos são zero;
-+ Dividir de dois valores sendo um negativo.
-
-<p>Alguns exemplos os testes realizados<p/>
-![image](https://github.com/VanessaCristinaSilva/calculadoraTest/assets/115050243/48498b14-74dc-4e08-a80d-2f632c222841)
 
 ## Documentação - Código Comentado
 

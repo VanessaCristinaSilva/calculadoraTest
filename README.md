@@ -3,10 +3,10 @@
 # Projeto: Testes - Calculadora
 #### Licença https://github.com/VanessaCristinaSilva/calculadoraTest/blob/main/LICENSE
 
-<h1>Introdução<h1/>
+## Introdução
 
-Este é um projeto simples de uma calculadora em Java, e este README de uma forma resumida descreve os testes que fora realizados na calculadora usando JUnit.
-No diretório src/calculadora, criamos os testes unitários que descrevem o comportamento desejado de cada operação matemática da nossa Calculadora.
+<p>Este é um projeto simples de uma calculadora em Java, e este README de uma forma resumida descreve os testes que fora realizados na calculadora usando JUnit.</p>
+<p>No diretório src/calculadora, criamos os testes unitários que descrevem o comportamento desejado de cada operação matemática da nossa Calculadora.</p>
 
 ## Calculadora criada
 ![image](https://github.com/VanessaCristinaSilva/calculadoraTest/assets/115050243/ce764123-ef3b-4bbf-be83-8298645fc1d8)

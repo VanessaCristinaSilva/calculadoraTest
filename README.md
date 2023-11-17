@@ -1,8 +1,8 @@
 # calculadoraTeste
 <h1>Projeto: Testes - Calculadora</h1>
-**Licença https://github.com/VanessaCristinaSilva/calculadoraTest/blob/main/LICENSE
+<h1>Licença https://github.com/VanessaCristinaSilva/calculadoraTest/blob/main/LICENSE</h1>
 
-***Introdução
+<h1>Introdução<h1/>
 
 Este é um projeto de teste para uma calculadora simples em Java que oferece as principais operações matemáticas, como soma, subtração, multiplicação e divisão. 
 Foram criadas as classes somar, subtrair, dividir e multiplicar, onde tiveram suas classes de testes criados, onde contem possíveis cenários previstos.
@@ -39,7 +39,7 @@ Função Dividir:
 + Dividir de dois valores sendo um negativo.
 + ![image](https://github.com/VanessaCristinaSilva/calculadoraTest/assets/115050243/48498b14-74dc-4e08-a80d-2f632c222841)
 
-***Código Comentado
+<h1>Código Comentado<h1/>
 ![image](https://github.com/VanessaCristinaSilva/calculadoraTest/assets/115050243/8ce70015-ebf7-48cf-86a4-b5f6b990eb16)
 ![image](https://github.com/VanessaCristinaSilva/calculadoraTest/assets/115050243/f8605006-2b15-4bad-83fa-5cb2eb1ef031)
 ![image](https://github.com/VanessaCristinaSilva/calculadoraTest/assets/115050243/e11b7011-beef-41de-b944-63b6a4584ac2)
